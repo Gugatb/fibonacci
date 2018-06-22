@@ -7,7 +7,6 @@ def fibonacci(number):
     Calcular o fibonacci.
     Author: Gugatb
     Date: 21/06/2018
-    @author Gugatb
     Param: pNumber o numero
     Return: fibonacci o fibonacci
     """
