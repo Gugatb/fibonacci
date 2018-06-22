@@ -1,14 +1,14 @@
 
 Technologies used
 -----------------------------------------------------------------------------------------
-Python 3
+Ruby 2.5
 
 Settings and notes
 -----------------------------------------------------------------------------------------
 Set the path to Windows if not configured.
 
-SETX PATH "%PATH%;C:\Python\Python36\Scripts"
+SETX PATH "%PATH%;C:\Ruby25-x64\bin"
 
 Script to be executed.
 
-py app.py
+ruby app.rb
